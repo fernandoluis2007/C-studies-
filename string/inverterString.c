@@ -24,8 +24,8 @@ void inverterString(const char *str, char *destino, int tamanho){
             string[i] = '\0';
         }
 
-        i++;g
-
+        i++;
+        
     }
 
     return string;
